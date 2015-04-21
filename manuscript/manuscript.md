@@ -52,6 +52,17 @@ organization:
 \linenumbers
 
 # Introduction {-}
+- Data are the lifeblood of science 
+- Data intensive science highlights the role data play in modern science
+- Little thought given to storage of data
+- Little training provided to young researchers (or old for that matter)
+
+- Need for simple guidelines for storing datat in both short- and long-term evident in a recent discussion on the [software carpentry discussion list]( http://lists.software-carpentry.org/mailman/listinfo/discuss_lists.software-carpentry.org).  
+
+- Quite a bit has been written about data.  
+- 
+
+
 Some example text with a citation [@goodman2014ten]
 
 # Rule 1: Rule {-}
